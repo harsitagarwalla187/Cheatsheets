@@ -37,6 +37,13 @@ git branch -r
 git branch -vva
 ```
 
+> # Rename A Branch
+### To rename an existing branch:
+```
+git branch -m <Branch Name>
+```
+**Note:** You should switch to the Branch that you want to rename it.
+
 > #  Clone A Repository
 ### Clone a Repository from Remote(GitHub) to Local System.
 ```

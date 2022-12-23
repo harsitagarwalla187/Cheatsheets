@@ -44,6 +44,12 @@ git branch -m <Branch Name>
 ```
 **Note:** You should switch to the Branch that you want to rename it.
 
+> # Delete A Branch
+### To delete an existing branch:
+```
+git branch --delete <branch_name>
+```
+
 > #  Clone A Repository
 ### Clone a Repository from Remote(GitHub) to Local System.
 ```
